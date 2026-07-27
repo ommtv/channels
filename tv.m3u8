@@ -22,7 +22,16 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
-http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8?ads=1&campaign=ott_369&filter.tracks=v1a1&token=5973244bb166bb7030607f53d20c895b
+http://smotrim.org/000006365.m3u8
 
-#EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png" tvg-shift="-2", Усадьба
-http://stream.mcquack.net/211/tracks-v1a1/mono.ts.m3u8?ads=1&campaign=ott_211&filter.tracks=v1a1&token=5973244bb166bb7030607f53d20c895b
+#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
+http://smotrim.org/000004207.m3u8
+
+#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Viju TV 1000 Русское
+http://smotrim.org/000003748.m3u8
+
+#EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино HD Премиум
+http://smotrim.org/000002943.m3u8
+
+#EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png" tvg-shift="-2", Наше новое кино
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
