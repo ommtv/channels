@@ -31,6 +31,9 @@ http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 
+#EXTINF:-1 group-title="ТВ" tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png" tvg-shift="-2", ZOO Парк
+http://smotrim.org/000000260.m3u8
+
 #EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Живая природа
 http://smotrim.org/000001187.m3u8
 
