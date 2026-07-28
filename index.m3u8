@@ -31,19 +31,19 @@ http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png" tvg-shift="-2", Бобёр
 http://smotrim.org/000001478.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Загородная жизнь Int
+#EXTINF:-1 group-title="ТВ" tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png" tvg-shift="-2", Загородная жизнь
 http://smotrim.org/000000289.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Зоо ТВ
+#EXTINF:-1 group-title="ТВ" tvg-id="2431" tvg-logo="https://ommtv.github.io/logos/tv/2431.png" tvg-shift="-2", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png" tvg-shift="-2", ZOO Парк
+#EXTINF:-1 group-title="ТВ" tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png" tvg-shift="-2", Зоопарк
 http://smotrim.org/000000260.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Живая природа
+#EXTINF:-1 group-title="ТВ" tvg-id="2495" tvg-logo="https://ommtv.github.io/logos/tv/2495.png" tvg-shift="-2", Живая природа
 http://smotrim.org/000001187.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Диалоги о рыбалке
+#EXTINF:-1 group-title="ТВ" tvg-id="2627" tvg-logo="https://ommtv.github.io/logos/tv/2627.png" tvg-shift="-2", Диалоги о рыбалке
 http://smotrim.org/000003174.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
@@ -52,7 +52,7 @@ http://smotrim.org/000006365.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
 http://smotrim.org/000004207.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", TV 1000 Русское
+#EXTINF:-1 group-title="ТВ" tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png" tvg-shift="-2", TV 1000 Русское
 http://smotrim.org/000003748.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино HD Премиум
