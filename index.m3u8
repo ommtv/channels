@@ -28,6 +28,12 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png" tvg-shift="-2", История
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
 
+#EXTINF:-1 group-title="ТВ" tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png" tvg-shift="-2", Бобёр
+http://smotrim.org/000001478.m3u8
+
+#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Загородная жизнь Int
+http://smotrim.org/000000289.m3u8
+
 #EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 
@@ -54,12 +60,6 @@ http://smotrim.org/000002943.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png" tvg-shift="-2", Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-
-#EXTINF:-1 group-title="ТВ" tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png" tvg-shift="-2", Бобёр
-http://smotrim.org/000001478.m3u8
-
-#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Загородная жизнь Int
-http://smotrim.org/000000289.m3u8
 
 #EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radioc.png", Радио СИ
 https://online.radioc.ru/radioc
