@@ -21,13 +21,24 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 
+#EXTINF:-1 group-title="ТВ" tvg-id="187" tvg-logo="https://ommtv.github.io/logos/tv/187.png" tvg-shift="-2", Россия К
+
+#EXTINF:-1 group-title="ТВ" tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png" tvg-shift="-2", История
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+
+#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+
+#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Диалоги о рыбалке
+http://smotrim.org/000003174.m3u8
+
 #EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
 http://smotrim.org/000006365.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
 http://smotrim.org/000004207.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Viju TV 1000 Русское
+#EXTINF:-1 group-title="ТВ" tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", TV 1000 Русское
 http://smotrim.org/000003748.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино HD Премиум
