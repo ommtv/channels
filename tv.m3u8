@@ -28,6 +28,10 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
 #EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
 https://s7.iptv-24.net/1410/index.m3u8
 
+#EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
+
+
+
 
 
 #EXTINF:-1 tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
