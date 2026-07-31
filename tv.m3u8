@@ -75,9 +75,10 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
-#EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
-
 #EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино HD Премиум
+https://s70378.cdn.ngenix.net/dom_kino_premium_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
 
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png" tvg-shift="-2", Победа
 
