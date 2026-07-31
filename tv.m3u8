@@ -19,6 +19,8 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-id="405" tvg-logo="https://ommtv.github.io/logos/tv/405.png" tvg-shift="-2", Звезда
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
@@ -27,36 +29,6 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
-https://s7.iptv-24.net/1266/index.m3u8
-
-#EXTINF:-1 tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
-https://s7.iptv-24.net/1417/index.m3u8
-
-#EXTINF:-1 tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
-https://s7.iptv-24.net/1404/index.m3u8
-
-#EXTINF:-1 tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
-https://s7.iptv-24.net/1250/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
-https://s7.iptv-24.net/1410/index.m3u8
-
-#EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png", Усадьба
-https://s7.iptv-24.net/1427/index.m3u8
-
-#EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
-https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
-
-#EXTINF:-1 tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png", Бобёр
-http://smotrim.org/000001478.m3u8
 
 
 
@@ -93,3 +65,39 @@ https://streaming.thestream.cyou/live/43.m3u8
 
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png" tvg-shift="-2", Победа
 https://streaming.skynetconnect.co.za/live/43.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
+https://s7.iptv-24.net/1266/index.m3u8
+
+#EXTINF:-1 tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
+https://s7.iptv-24.net/1417/index.m3u8
+
+#EXTINF:-1 tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
+https://s7.iptv-24.net/1404/index.m3u8
+
+#EXTINF:-1 tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
+https://s7.iptv-24.net/1250/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
+https://s7.iptv-24.net/1410/index.m3u8
+
+#EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png", Усадьба
+https://s7.iptv-24.net/1427/index.m3u8
+
+#EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+
+#EXTINF:-1 tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png", Бобёр
+http://smotrim.org/000001478.m3u8
+
+
+
+
