@@ -66,16 +66,17 @@ https://s7.iptv-24.net/1051/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png" tvg-shift="-2", Родное кино
 https://s7.iptv-24.net/1052/index.m3u8
 
+#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
+http://176.118.197.101/Komediya/index.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
+http://smotrim.org/000004207.m3u8
+
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
 
 #EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино HD Премиум
 
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png" tvg-shift="-2", Победа
-
-#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
-
-#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
-http://smotrim.org/000004207.m3u8
 
 #EXTINF:-1 tvg-id="4670" tvg-logo="https://ommtv.github.io/logos/tv/4670.png" tvg-shift="-2", Фильмы СССР
 
