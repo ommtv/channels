@@ -45,9 +45,6 @@ http://smotrim.org/000004207.m3u8
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png" tvg-shift="-2", Комедия
 http://176.118.197.101/Komediya/index.m3u8
 
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Советское кино
-http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-
 #EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
