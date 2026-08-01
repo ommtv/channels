@@ -77,10 +77,10 @@ http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png" tvg-shift="-2", Родное кино
 https://s7.iptv-24.net/1052/index.m3u8
 
-#EXTINF:-1 tvg-id="_" tvg-logo="https://ommtv.github.io/logos/tv/_.png" tvg-shift="-2", Дом кино
+#EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино
 https://s7.iptv-24.net/1054/index.m3u8
 
-#EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино Премиум HD
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png" tvg-shift="-2", Дом кино Премиум HD
 https://s70378.cdn.ngenix.net/dom_kino_premium_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
