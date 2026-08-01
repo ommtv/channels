@@ -68,23 +68,29 @@ http://smotrim.org/000001478.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png", Viju TV1000 Русское
 https://s7.iptv-24.net/1059/index.m3u8
 
-#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png" tvg-shift="-2", Русский иллюзион
+#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
 http://smotrim.org/000004207.m3u8
 
 #EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png" tvg-shift="-2", Родное кино
+#EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png", Родное кино
 https://s7.iptv-24.net/1052/index.m3u8
 
-#EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png" tvg-shift="-2", Дом кино
+#EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png", Дом кино
 https://s7.iptv-24.net/1054/index.m3u8
 
-#EXTINF:-1 tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png" tvg-shift="-2", Дом кино Премиум HD
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум HD
 https://s70378.cdn.ngenix.net/dom_kino_premium_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png" tvg-shift="-2", Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="821" tvg-logo="https://ommtv.github.io/logos/tv/821.png", Кинокомедия
+https://s7.iptv-24.net/1232/index.m3u8
+
+#EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png", Комедия
+http://176.118.197.101/Komediya/index.m3u8
+
+#EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 
-#EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png" tvg-shift="-2", Победа
+#EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 http://smotrim.org/000004534.m3u8
