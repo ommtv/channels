@@ -91,13 +91,7 @@ http://176.118.197.101/Komediya/index.m3u8
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
-http://smotrim.org/000004534.m3u8
-
-#EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
 #EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
 http://smotrim.org/000004207.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
-http://31.148.48.15:80/Russkiy_illusion/index.m3u8
