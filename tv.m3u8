@@ -11,8 +11,7 @@ https://stream.smotrim.ru/hls/russia1_plus2/playlist_4.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="6682" tvg-logo="https://ommtv.github.io/logos/tv/6682.png", ОТВ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+https://vd.obltv.ru/watch/air_hd.m3u8
 
 #EXTINF:-1 tvg-id="6776" tvg-logo="https://ommtv.github.io/logos/tv/6776.png", Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
@@ -64,9 +63,8 @@ https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 
-
-#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
-http://smotrim.org/000004207.m3u8
+#EXTINF:-1 tvg-id="11341" tvg-logo="https://ommtv.github.io/logos/tv/11341.png", КиноСезон
+https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 
 #EXTINF:-1 tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png", Viju TV1000 Русское
 https://s7.iptv-24.net/1059/index.m3u8
@@ -98,8 +96,8 @@ http://smotrim.org/000004534.m3u8
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
-#EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
-https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
+http://smotrim.org/000004207.m3u8
 
-#EXTINF:-1 tvg-id="11341" tvg-logo="https://ommtv.github.io/logos/tv/11341.png", КиноСезон
-https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
+http://31.148.48.15:80/Russkiy_illusion/index.m3u8
