@@ -11,7 +11,7 @@ https://stream.smotrim.ru/hls/russia1_plus2/playlist_4.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="6682" tvg-logo="https://ommtv.github.io/logos/tv/6682.png", ОТВ
-https://vd.obltv.ru/watch/air_hd.m3u8
+https://vd.obltv.ru/watch/air_sd.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="6776" tvg-logo="https://ommtv.github.io/logos/tv/6776.png", Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
