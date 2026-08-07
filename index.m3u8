@@ -28,30 +28,30 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
 
 
 #EXTINF:-1 group-title="ТВ" tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
-https://s7.iptv-24.net/1266/index.m3u8
+https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
 
 
 
 
 
 #EXTINF:-1 group-title="ТВ" tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
-https://s7.iptv-24.net/1417/index.m3u8
+https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
-https://s7.iptv-24.net/1404/index.m3u8
+https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
-https://s7.iptv-24.net/1250/index.m3u8
+https://s7.iptv-24.net/1250/tracks-v1a1/mono.m3u8
 
 
 
 
 
 #EXTINF:-1 group-title="ТВ" tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
-https://s7.iptv-24.net/1410/index.m3u8
+https://s7.iptv-24.net/1410/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png", Усадьба
-https://s7.iptv-24.net/1427/index.m3u8
+https://s7.iptv-24.net/1427/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
@@ -66,16 +66,16 @@ https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png", Viju TV1000 Русское
-https://s7.iptv-24.net/1059/index.m3u8
+https://s7.iptv-24.net/1059/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
+
 
 #EXTINF:-1 group-title="ТВ" tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png", Родное кино
-https://s7.iptv-24.net/1052/index.m3u8
+https://s7.iptv-24.net/1052/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png", Дом кино
-https://s7.iptv-24.net/1054/index.m3u8
+https://s7.iptv-24.net/1054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум HD
 https://s70378.cdn.ngenix.net/dom_kino_premium_hd/index.m3u8
@@ -102,11 +102,11 @@ https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 
-#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/dorognoe-nostalgia.png", Дорожное радио Ностальгия
-https://hls-01-dorognoe-nostalgia.emgsound.ru/19/playlist.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах. Музыка любви
+https://hls-01-radio7-love.emgsound.ru/8/playlist.m3u8
 
-#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-vintage.png", Радио 7 на семи холмах Время классики
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-vintage.png", Радио 7 на семи холмах. Время классики
 https://hls-01-radio7-vintage.emgsound.ru/radio7-vintage/playlist.m3u8
 
-#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах Музыка любви
-https://hls-01-radio7-love.emgsound.ru/8/playlist.m3u8
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/dorognoe-nostalgia.png", Дорожное радио. Ностальгия
+https://hls-01-dorognoe-nostalgia.emgsound.ru/19/playlist.m3u8
