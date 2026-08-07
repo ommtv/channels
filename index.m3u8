@@ -83,14 +83,42 @@ https://s70378.cdn.ngenix.net/dom_kino_premium_hd/index.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png", Комедия
 http://176.118.197.101/Komediya/index.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-
 #EXTINF:-1 group-title="ТВ" tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
+
+
+
 #EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
-http://31.148.48.15:80/Russkiy_illusion/index.m3u8
+https://fs.uplink.kz/russkiy_illusion/index.m3u8?token=onlinetv
+
+#EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион 2
+https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+
+
+
+#EXTINF:-1 group-title="ТВ" tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро
+http://37.186.70.39:40/play/46/index.m3u8
+
+#EXTINF:-1 group-title="ТВ" tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро 2
+https://s7.iptv-24.net/1047/index.m3u8
+
+#EXTINF:-1 group-title="ТВ" tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро 3
+https://s7.iptv-24.net/1047/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+
+#EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция 2
+https://fs.uplink.kz/mosfilm/index.m3u8?token=onlinetv
+
+#EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция 3
+https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 
