@@ -90,39 +90,23 @@ https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
 
 #EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
-https://fs.uplink.kz/russkiy_illusion/index.m3u8?token=onlinetv
-
-#EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион 2
 https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-
-
-
 #EXTINF:-1 group-title="ТВ" tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро
-http://37.186.70.39:40/play/46/index.m3u8
-
-#EXTINF:-1 group-title="ТВ" tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро 2
-https://s7.iptv-24.net/1047/index.m3u8
-
-#EXTINF:-1 group-title="ТВ" tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро 3
 https://s7.iptv-24.net/1047/tracks-v1a1/mono.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-
-#EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция 2
-https://fs.uplink.kz/mosfilm/index.m3u8?token=onlinetv
-
-#EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция 3
 https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 
 
 
-#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radioc.png", Радио СИ
-https://online.radioc.ru/radioc
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/dorognoe-nostalgia.png", Дорожное радио Ностальгия
+https://hls-01-dorognoe-nostalgia.emgsound.ru/19/playlist.m3u8
+
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-vintage.png", Радио 7 на семи холмах Время классики
+https://hls-01-radio7-vintage.emgsound.ru/radio7-vintage/playlist.m3u8
+
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах Музыка любви
+https://hls-01-radio7-love.emgsound.ru/8/playlist.m3u8
