@@ -26,11 +26,8 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
 
 
 
-
 #EXTINF:-1 group-title="ТВ" tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
 https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
-
-
 
 
 
@@ -42,8 +39,6 @@ https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
 https://s7.iptv-24.net/1250/tracks-v1a1/mono.m3u8
-
-
 
 
 
@@ -61,7 +56,6 @@ https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 
-
 #EXTINF:-1 group-title="ТВ" tvg-id="11341" tvg-logo="https://ommtv.github.io/logos/tv/11341.png", КиноСезон
 https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 
@@ -69,7 +63,7 @@ https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 https://s7.iptv-24.net/1059/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
-
+https://s7.iptv-24.net/1051/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png", Родное кино
 https://s7.iptv-24.net/1052/tracks-v1a1/mono.m3u8
@@ -86,19 +80,11 @@ http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
-
-
-
 #EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
 https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро
-https://s7.iptv-24.net/1047/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
 https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-
 
 
 
