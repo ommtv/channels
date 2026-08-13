@@ -86,3 +86,6 @@ https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах. Музыка любви
 https://radio7.hostingradio.ru:8040/radio7_love64.aacp
+
+#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radiolegenda.png", Радио Легенда
+https://radiolegenda.ru:8001/64.aac
