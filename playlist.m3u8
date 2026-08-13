@@ -78,7 +78,7 @@ https://a3569457538-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 http://176.118.197.101/Komediya/index.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
-https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://smotr.top/kanal/000004207/index.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
 https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
@@ -86,10 +86,4 @@ https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 
 #EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах. Музыка любви
-https://hls-01-radio7-love.emgsound.ru/8/playlist.m3u8
-
-#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-vintage.png", Радио 7 на семи холмах. Время классики
-https://hls-01-radio7-vintage.emgsound.ru/radio7-vintage/playlist.m3u8
-
-#EXTINF:-1 group-title="Радио" tvg-logo="https://ommtv.github.io/logos/radio/dorognoe-nostalgia.png", Дорожное радио. Ностальгия
-https://hls-01-dorognoe-nostalgia.emgsound.ru/19/playlist.m3u8
+https://radio7.hostingradio.ru:8040/radio7_love64.aacp
