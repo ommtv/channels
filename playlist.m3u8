@@ -68,7 +68,7 @@ https://s7.iptv-24.net/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png", Дом кино
 https://s7.iptv-24.net/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ТВ" tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум HD
+#EXTINF:-1 group-title="ТВ" tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум
 https://a3569457538-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 
 #EXTINF:-1 group-title="ТВ" tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png", Комедия
