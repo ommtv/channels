@@ -54,6 +54,8 @@ https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 group-title="ТВ" tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png", Бобёр
 https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
+#EXTINF:-1 group-title="ТВ" tvg-id="2627" tvg-logo="https://ommtv.github.io/logos/tv/2627.png", Диалоги о рыбалке
+https://smotr.top/kanal/000003174/index.m3u8
 
 
 #EXTINF:-1 group-title="ТВ" tvg-id="11341" tvg-logo="https://ommtv.github.io/logos/tv/11341.png", КиноСезон
