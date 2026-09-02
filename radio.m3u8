@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png" radio="true", Радио 7 на семи холмах. Музыка любви
+https://radio7.hostingradio.ru:8040/radio7_love64.aacp
