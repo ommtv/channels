@@ -71,7 +71,7 @@ https://s7.iptv-24.net/1051/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум
-https://a3569457538-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png", Комедия
 http://176.118.197.101/Komediya/index.m3u8
