@@ -46,6 +46,7 @@ https://s7.iptv-24.net/1427/tracks-v1a1/mono.m3u8
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 
 #EXTINF:-1 tvg-id="2026" tvg-logo="https://ommtv.github.io/logos/tv/2026.png", Бобёр
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 
 #EXTINF:-1 tvg-id="11341" tvg-logo="https://ommtv.github.io/logos/tv/11341.png", КиноСезон
 https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
