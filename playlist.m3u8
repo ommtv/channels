@@ -77,6 +77,9 @@ http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 
+#EXTINF:-1 tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро
+https://s7.iptv-24.net/1047/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 
 #EXTINF:-1 group-title="Спокойное радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах. Музыка любви
