@@ -20,6 +20,22 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 
+#EXTINF:-1 tvg-id="187" tvg-logo="https://ommtv.github.io/logos/tv/187.png" tvg-shift="-2", Россия К
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
+
+#EXTINF:-1 tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
+https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
+https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
+https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
+https://s7.iptv-24.net/1250/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
 https://s7.iptv-24.net/1410/tracks-v1a1/mono.m3u8
 
@@ -64,22 +80,6 @@ https://s7.iptv-24.net/1047/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
-
-#EXTINF:-1 tvg-id="187" tvg-logo="https://ommtv.github.io/logos/tv/187.png" tvg-shift="-2", Россия К
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
-
-#EXTINF:-1 tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
-https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
-https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
-https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
-https://s7.iptv-24.net/1250/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Спокойное радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах. Музыка любви
 https://radio7.hostingradio.ru:8040/radio7_love64.aacp
