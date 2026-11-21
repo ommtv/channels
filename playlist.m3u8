@@ -81,5 +81,11 @@ https://s7.iptv-24.net/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
 
+#EXTINF:-1 tvg-id="6241" tvg-logo="https://ommtv.github.io/logos/tv/6241.png", Start Air
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv2
+
+#EXTINF:-1 tvg-id="309" tvg-logo="https://ommtv.github.io/logos/tv/309.png", ТВ 21
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv2
+
 #EXTINF:-1 group-title="Спокойное радио" tvg-logo="https://ommtv.github.io/logos/radio/radio7-love.png", Радио 7 на семи холмах. Музыка любви
 https://radio7.hostingradio.ru:8040/radio7_love64.aacp
