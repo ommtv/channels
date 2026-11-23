@@ -25,22 +25,22 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_NTAG/variant.m3u8
 
 #EXTINF:-1 tvg-id="1036" tvg-logo="https://ommtv.github.io/logos/tv/1036.png", История
-https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1266/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="367" tvg-logo="https://ommtv.github.io/logos/tv/367.png", Зоопарк
-https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1417/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2498" tvg-logo="https://ommtv.github.io/logos/tv/2498.png", В мире животных
-https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1404/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2432" tvg-logo="https://ommtv.github.io/logos/tv/2432.png", Живая планета
-https://s7.iptv-24.net/1250/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1250/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2463" tvg-logo="https://ommtv.github.io/logos/tv/2463.png", Загородный
-https://s7.iptv-24.net/1410/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1410/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="434" tvg-logo="https://ommtv.github.io/logos/tv/434.png", Усадьба
-https://s7.iptv-24.net/1427/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1427/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2298" tvg-logo="https://ommtv.github.io/logos/tv/2298.png", Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
@@ -49,19 +49,19 @@ https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 
 #EXTINF:-1 tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png", Viju TV1000 Русское
-https://s7.iptv-24.net/1059/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1059/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
-https://s7.iptv-24.net/1051/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1051/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png", Родное кино
-https://s7.iptv-24.net/1052/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1052/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="566" tvg-logo="https://ommtv.github.io/logos/tv/566.png", Кинопремьера
-https://s7.iptv-24.net/1207/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1207/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png", Дом кино
-https://s7.iptv-24.net/1054/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум
 https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
@@ -76,7 +76,7 @@ https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро
-https://s7.iptv-24.net/1047/tracks-v1a1/mono.m3u8
+https://s1.iptv-24.net/1047/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
