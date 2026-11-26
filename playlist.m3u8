@@ -51,7 +51,7 @@ https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="https://ommtv.github.io/logos/tv/267.png", Viju TV1000 Русское
 https://s1.iptv-24.net/1059/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png" tvg-shift="-2", Наше новое кино
+#EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-id="566" tvg-logo="https://ommtv.github.io/logos/tv/566.png", Кинопремьера
