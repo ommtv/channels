@@ -52,16 +52,13 @@ https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 https://s1.iptv-24.net/1059/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="485" tvg-logo="https://ommtv.github.io/logos/tv/485.png", Наше новое кино
-https://s1.iptv-24.net/1051/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-logo="https://ommtv.github.io/logos/tv/12.png", Родное кино
-https://s1.iptv-24.net/1052/tracks-v1a1/mono.m3u8
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-id="566" tvg-logo="https://ommtv.github.io/logos/tv/566.png", Кинопремьера
 https://s1.iptv-24.net/1207/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="834" tvg-logo="https://ommtv.github.io/logos/tv/834.png", Дом кино
-https://s1.iptv-24.net/1054/tracks-v1a1/mono.m3u8
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://ommtv.github.io/logos/tv/2020.png", Дом кино Премиум
 https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
@@ -74,9 +71,6 @@ https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://ommtv.github.io/logos/tv/3357.png", Мосфильм. Золотая коллекция
 https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
-
-#EXTINF:-1 tvg-id="2402" tvg-logo="https://ommtv.github.io/logos/tv/2402.png", Ретро
-https://s1.iptv-24.net/1047/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2447" tvg-logo="https://ommtv.github.io/logos/tv/2447.png", Победа
 https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv2
