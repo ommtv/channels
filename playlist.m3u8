@@ -66,6 +66,9 @@ https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://ommtv.github.io/logos/tv/1620.png", Комедия
 http://176.118.197.101/Komediya/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="138" tvg-logo="https://ommtv.github.io/logos/tv/138.png", Комедийное
+https://s1.iptv-24.net/1232/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="53" tvg-logo="https://ommtv.github.io/logos/tv/53.png", Русский иллюзион
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv2
 
